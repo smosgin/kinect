@@ -1,0 +1,27 @@
+The Kinect OpenCV project uses the .NET Wrapper EmguCV which
+is NOT included. You must set this up manually.
+
+EmguCV is available either open source or with a commercial license. 
+
+Overview: http://www.emgu.com/wiki/index.php/Main_Page
+Licensing: http://www.emgu.com/wiki/index.php/Licensing:#Commercial_License
+
+This demo will *NOT* work without EmguCV installed
+
+STEPS TO SETUP DEMO
+
+ROOT DIRECTORY
+The following EmguCV files need to be added to the root directory, "3.SkeletalTracking\OpenCV\KinectOpenCV" 
+
+cvextern.dll
+libiomp5md.dll
+libmd.dll
+opencv_core242.dll
+opencv_imgproc242.dll
+
+
+OPENCV DIRECTORY
+You must also copy the following files to the OpenCV directory "3.SkeletalTracking\OpenCV\KinectOpenCV\OpenCV"
+Emgu.CV.dll
+Emgu.Util.dll
+

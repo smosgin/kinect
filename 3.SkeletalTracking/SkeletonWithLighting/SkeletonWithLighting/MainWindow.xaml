@@ -1,0 +1,22 @@
+﻿<Window x:Class="SkeletonWithLighting.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow"
+		Width="640" Height="480" 
+		Loaded="Window_Loaded">
+	<Grid>
+		<Image Name="_colorImage" Width="640" Height="480" />
+		<StackPanel HorizontalAlignment="Right">
+			<Rectangle Height="100" Width="100" Name="_rectCyan" Fill="Cyan" />
+			<Rectangle Height="100" Width="100" Name="_rectOrange" Fill="Orange" />
+			<Rectangle Height="100" Width="100" Name="_rectRed" Fill="Red" />
+			<Rectangle Height="100" Width="100" Name="_rectGreen" Fill="Green" />
+		</StackPanel>
+
+		<Canvas Name="MainCanvas">
+			<Ellipse Canvas.Left="25" Canvas.Top="150" Name="_leftEllipse" Height="50" Width="50" Fill="Purple" StrokeThickness="2" Stroke="Black" />
+            <Ellipse Canvas.Left="100" Canvas.Top="150" Name="_rightEllipse" Fill="{Binding SetColor}" StrokeThickness="2"  Height="50" Width="50" Stroke="Black" />
+		</Canvas>
+
+	</Grid>
+</Window>

@@ -1,0 +1,1 @@
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\Coding4Fun.Kinect.KinectService.Samples.WinRTJS.jsproj;x86

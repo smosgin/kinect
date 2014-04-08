@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="ProcessingJSViewerCSharp.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:ProcessingJSViewerCSharp"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    ScrollViewer.VerticalScrollBarVisibility="Disabled">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto"/>
+			<RowDefinition Height="*"/>
+		</Grid.RowDefinitions>
+
+		<WebView 
+			Name="Browser"
+			Grid.RowSpan="2"
+            ScrollViewer.VerticalScrollBarVisibility="Disabled"  			
+			Source="ms-appx-web:///html/index.html"
+			HorizontalAlignment="Stretch"
+            Loaded="Browser_Loaded"       
+            ScriptNotify="JSListener"
+            NavigationFailed="Browser_NavigationFailed" />
+
+		<!--TitlePanel contains the name of the application and page title-->
+		<StackPanel x:Name="TitlePanel" Grid.Row="0" Margin="12,17,0,28" Background="Green">
+			<TextBlock Text="Coding4Fun - ProcessingJS"  Margin="12,0" Foreground="Red"/>
+			<TextBlock Text="sketchbook" Margin="9,-7,0,0"  Foreground="Red"/>
+		</StackPanel>
+	</Grid>
+</Page>

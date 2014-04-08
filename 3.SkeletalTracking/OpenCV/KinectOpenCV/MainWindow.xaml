@@ -1,0 +1,39 @@
+﻿<Window x:Class="KinectOpenCV.MainWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:sys="clr-namespace:System;assembly=mscorlib"
+		xmlns:KinectOpenCv="clr-namespace:KinectOpenCV"
+		Title="MainWindow" Height="650" Width="1280" 
+		SizeToContent="WidthAndHeight" WindowStartupLocation="CenterScreen">
+	<Window.Resources>
+		<ObjectDataProvider MethodName="GetValues"
+		ObjectType="{x:Type sys:Enum}"
+		x:Key="EffectTypeEnumValues">
+			<ObjectDataProvider.MethodParameters>
+				<x:Type TypeName="KinectOpenCv:EffectType" />
+			</ObjectDataProvider.MethodParameters>
+		</ObjectDataProvider>
+		<Style TargetType="{x:Type ComboBox}">
+			<Setter Property="FontSize" Value="24"/>
+		</Style>
+	</Window.Resources>
+	<Grid>
+		<Grid.RowDefinitions>
+			<RowDefinition/>
+			<RowDefinition Height="50"/>
+		</Grid.RowDefinitions>
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition/>
+			<ColumnDefinition/>
+		</Grid.ColumnDefinitions>
+		<StackPanel Grid.Row="0" Grid.Column="0">
+            <TextBlock HorizontalAlignment="Center" FontSize="20">Color</TextBlock>
+			<Image x:Name="ColorImage" Width="640" Height="480"/>
+		</StackPanel>
+		<StackPanel Grid.Row="0" Grid.Column="1">
+            <TextBlock HorizontalAlignment="Center" FontSize="20">Color Effect</TextBlock>
+            <Image x:Name="ColorEffectImage" Width="640" Height="480"/>
+        </StackPanel>
+		<ComboBox x:Name="ColorEffect" Grid.Row="2" Grid.Column="1" SelectedIndex="0" ItemsSource="{Binding Source={StaticResource EffectTypeEnumValues}}" SelectionChanged="ColorEffect_SelectionChanged"/>
+        <Button Grid.Row="1" Content="Start Recording" FontSize="24" x:Name="btnRecord" Click="btnRecord_Click_1"></Button>
+	</Grid>
+</Window>

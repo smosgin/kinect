@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DANIELFELAPTOP</Machine>
+    <WindowsUser>danielfe</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>0E0F1DB7DB6C00FA6D9C05490A76DE6986AF4C81D94D767C29D22846CF16D8CA</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>ced2ec13-a00f-4977-abba-098c4e01d740_1.0.0.0_neutral__ej9w7k8s37jma</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>ced2ec13-a00f-4977-abba-098c4e01d740_ej9w7k8s37jma!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>ced2ec13-a00f-4977-abba-098c4e01d740</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Coding4Fun</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-06-04T16:55:46.217</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\default.html">
+      <PackagePath>default.html</PackagePath>
+      <Modified>2013-05-27T22:01:32.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\images\logo.scale-100.png">
+      <PackagePath>images\logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-24T02:13:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\images\smalllogo.scale-100.png">
+      <PackagePath>images\smalllogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-24T02:13:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\images\splash.png">
+      <PackagePath>images\splash.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-24T02:13:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\images\storelogo.scale-100.png">
+      <PackagePath>images\storelogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-05-24T02:13:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\js\default.js">
+      <PackagePath>js\default.js</PackagePath>
+      <Modified>2013-05-28T18:25:24.525</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\js\processing_rt.js">
+      <PackagePath>js\processing_rt.js</PackagePath>
+      <Modified>2013-05-24T02:13:45.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\sketch.js">
+      <PackagePath>sketch.js</PackagePath>
+      <Modified>2013-05-28T18:40:18.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\css\default.css">
+      <PackagePath>css\default.css</PackagePath>
+      <Modified>2013-05-24T02:13:44.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\sketch.pde">
+      <PackagePath>sketch.pde</PackagePath>
+      <Modified>2013-05-24T20:22:16.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-06-04T00:41:52.391</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\">
+      <Name>Microsoft.WinJS.1.0</Name>
+      <Version>1.0.9200.20512</Version>
+      <Architecture>Neutral</Architecture>
+      <FrameworkIdentity>Name=Microsoft.WinJS.1.0, MinVersion=1.0.9200.20512</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.WinJS.1.0\1.0\Microsoft.WinJS.1.0.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

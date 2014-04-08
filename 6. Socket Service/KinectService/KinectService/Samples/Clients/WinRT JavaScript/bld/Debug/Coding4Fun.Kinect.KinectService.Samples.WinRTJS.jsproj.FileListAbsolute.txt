@@ -1,0 +1,2 @@
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\Debug\Coding4Fun.Kinect.KinectService.Samples.WinRTJS.jsprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\Debug\Coding4Fun.Kinect.KinectService.Samples.WinRTJS.jsprojResolveAssemblyReference.cache

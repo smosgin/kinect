@@ -1,0 +1,31 @@
+﻿body {
+    background-color: #271e28;
+}
+
+#canvas_wrapper 
+{
+    height: 100%;
+    display: -ms-flexbox;
+    -ms-flex-direction: column;
+    -ms-flex-pack: center;
+    -ms-flex-align: center;
+}
+
+#canvasRoot {
+    margin-left: auto;
+    margin-right:auto;
+}
+
+
+
+@media screen and (-ms-view-state: fullscreen-landscape) {
+}
+
+@media screen and (-ms-view-state: filled) {
+}
+
+@media screen and (-ms-view-state: snapped) {
+}
+
+@media screen and (-ms-view-state: fullscreen-portrait) {
+}

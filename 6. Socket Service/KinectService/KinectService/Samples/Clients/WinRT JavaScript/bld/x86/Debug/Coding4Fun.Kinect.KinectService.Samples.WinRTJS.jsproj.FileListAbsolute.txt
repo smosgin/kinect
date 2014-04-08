@@ -1,0 +1,17 @@
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bin\x86\Debug\resources.pri
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bin\x86\Debug\AppxManifest.xml
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bin\x86\Debug\Coding4Fun.Kinect.KinectService.Samples.WinRTJS.build.appxrecipe
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bin\x86\Debug\Coding4Fun.Kinect.KinectService.WinRTClient.winmd
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bin\x86\Debug\Coding4Fun.Kinect.KinectService.WinRTClient.dll
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\Coding4Fun.Kinect.KinectService.Samples.WinRTJS.jsprojResolveAssemblyReference.cache
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\Coding4Fun.Kinect.KinectService.Samples.WinRTJS.jsproj.GenerateResource.Cache
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\priconfig.xml.intermediate
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\layout.resfiles.intermediate
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\resources.resfiles.intermediate
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\pri.resfiles.intermediate
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\priconfig.xml
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\layout.resfiles
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\resources.resfiles
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\pri.resfiles
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\LanguageQualifiers.txt
+C:\Users\danielfe\Desktop\KinectDemos\Playground\KinectService\KinectService\Samples\Clients\WinRT JavaScript\bld\x86\Debug\ProjectArchitectures.txt

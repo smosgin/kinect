@@ -1,0 +1,54 @@
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\KinectCameraBasics.exe.config
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\KinectCameraBasics.exe
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\KinectCameraBasics.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.csprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\MainWindow.baml
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\MainWindow.g.cs
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\App.g.cs
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics_MarkupCompile.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.g.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.Properties.Resources.resources
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.csproj.GenerateResource.Cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.exe
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\KinectCameraBasics.exe.config
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.exe
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.pdb
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.csprojResolveAssemblyReference.cache
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\MainWindow.baml
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\MainWindow.g.cs
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\App.g.cs
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics_MarkupCompile.cache
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.g.resources
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.Properties.Resources.resources
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.csproj.GenerateResource.Cache
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\KinectCameraBasics.exe
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\KinectCameraBasics.pdb
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\nilanb\Desktop\_Final\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\KinectCameraBasics.exe.config
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.exe
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.pdb
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\KinectCameraBasics.exe
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\KinectCameraBasics.pdb
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Microsoft.Kinect.Toolkit.pdb
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.csprojResolveAssemblyReference.cache
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\MainWindow.baml
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\MainWindow.g.cs
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\App.g.cs
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics_MarkupCompile.cache
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.g.resources
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.Properties.Resources.resources
+C:\Users\seth\Documents\Visual Studio 2012\Projects\kinect\1. Camera Fundamentals\KinectCameraBasics\KinectCameraBasics\KinectCameraBasics\obj\Debug\KinectCameraBasics.csproj.GenerateResource.Cache

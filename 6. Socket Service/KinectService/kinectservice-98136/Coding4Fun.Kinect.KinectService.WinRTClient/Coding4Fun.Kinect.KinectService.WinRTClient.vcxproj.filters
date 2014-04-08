@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Resources">
+      <UniqueIdentifier>1e23a51f-8c96-4dfb-841e-a92ede9d89ce</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="pch.cpp" />
+    <ClCompile Include="ColorClient.cpp" />
+    <ClCompile Include="DepthClient.cpp" />
+    <ClCompile Include="SkeletonClient.cpp" />
+    <ClCompile Include="AudioClient.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="ColorClient.h" />
+    <ClInclude Include="ColorFrameData.h" />
+    <ClInclude Include="DepthClient.h" />
+    <ClInclude Include="DepthFrameData.h" />
+    <ClInclude Include="Enums.h" />
+    <ClInclude Include="Skeleton.h" />
+    <ClInclude Include="SkeletonClient.h" />
+    <ClInclude Include="SkeletonFrameData.h" />
+    <ClInclude Include="SkeletonPoint.h" />
+    <ClInclude Include="Joint.h" />
+    <ClInclude Include="Vector4.h" />
+    <ClInclude Include="ImageFrame.h" />
+    <ClInclude Include="ColorImageFrame.h" />
+    <ClInclude Include="DepthImageFrame.h" />
+    <ClInclude Include="AudioClient.h" />
+    <ClInclude Include="AudioFrameData.h" />
+  </ItemGroup>
+</Project>

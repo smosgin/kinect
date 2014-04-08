@@ -1,0 +1,50 @@
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\resources.pri
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\AppxManifest.xml
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\ProcessingJSViewerWinJS.build.appxrecipe
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\priconfig.xml.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\layout.resfiles.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\resources.resfiles.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\pri.resfiles.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\priconfig.xml
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\layout.resfiles
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\resources.resfiles
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\pri.resfiles
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\LanguageQualifiers.txt
+C:\Users\danielfe\SkyDrive\Documents\Projects\Events\TechEd\2013\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\ProjectArchitectures.txt
+C:\Users\danielfe\Desktop\KinectDemos\Playground\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\resources.pri
+C:\Users\danielfe\Desktop\KinectDemos\Playground\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\AppxManifest.xml
+C:\Users\danielfe\Desktop\KinectDemos\Playground\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\ProcessingJSViewerWinJS.build.appxrecipe
+C:\Users\danielfe\Desktop\KinectDemos\Playground\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\priconfig.xml
+C:\Users\danielfe\Desktop\KinectDemos\Playground\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\layout.resfiles
+C:\Users\danielfe\Desktop\KinectDemos\Playground\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\resources.resfiles
+C:\Users\danielfe\Desktop\KinectDemos\Playground\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\pri.resfiles
+C:\Users\danielfe\Desktop\KinectDemos\Playground\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\LanguageQualifiers.txt
+C:\Users\danielfe\Desktop\KinectDemos\Playground\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\ProjectArchitectures.txt
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\ProcessingJSViewerWinJS.jsprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\resources.pri
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\AppxManifest.xml
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\ProcessingJSViewerWinJS.build.appxrecipe
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\priconfig.xml.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\layout.resfiles.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\resources.resfiles.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\pri.resfiles.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\priconfig.xml
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\layout.resfiles
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\resources.resfiles
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\pri.resfiles
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\LanguageQualifiers.txt
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\ProjectArchitectures.txt
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\resources.pri
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\AppxManifest.xml
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bin\Debug\ProcessingJSViewerWinJS.build.appxrecipe
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\ProcessingJSViewerWinJS.jsprojResolveAssemblyReference.cache
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\priconfig.xml.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\layout.resfiles.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\resources.resfiles.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\pri.resfiles.intermediate
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\priconfig.xml
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\layout.resfiles
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\resources.resfiles
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\pri.resfiles
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\LanguageQualifiers.txt
+C:\Users\danielfe\SkyDrive\Documents\Projects\KinectDemos\_Final\6. Socket Service\ProcessingJSViewer\ProcessingJSViewer\ProcessingJSViewerWinJS\bld\Debug\ProjectArchitectures.txt

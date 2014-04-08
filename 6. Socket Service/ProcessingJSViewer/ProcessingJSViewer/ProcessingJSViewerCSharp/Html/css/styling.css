@@ -1,0 +1,26 @@
+﻿html, body {
+    height: 95%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    -ms-touch-action:none;
+}
+/**/
+body {
+    font-size: 11pt;
+    font-family: "Segoe";
+    letter-spacing: 0.02em;
+    background-color: #000000;
+    color: #FFFFFF;
+}
+
+textarea {
+    font-size: 16pt;
+    font-family: "Segoe WP";
+    width: 100%;
+    resize:both;
+}
+
+#page-title {
+    font-size: 24pt;
+}

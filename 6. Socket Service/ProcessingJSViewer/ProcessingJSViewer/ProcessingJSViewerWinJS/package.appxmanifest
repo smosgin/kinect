@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/2010/manifest">
+  <Identity Name="ced2ec13-a00f-4977-abba-098c4e01d740" Version="1.0.0.0" Publisher="CN=Coding4Fun" />
+  <Properties>
+    <DisplayName>ProcessingJSViewer</DisplayName>
+    <PublisherDisplayName>Coding4Fun</PublisherDisplayName>
+    <Logo>images\storelogo.scale-100.png</Logo>
+  </Properties>
+  <Prerequisites>
+    <OSMinVersion>6.2.1</OSMinVersion>
+    <OSMaxVersionTested>6.2.1</OSMaxVersionTested>
+  </Prerequisites>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="default.html">
+      <VisualElements DisplayName="Sketchbook" Logo="images\logo.scale-100.png" SmallLogo="images\smalllogo.scale-100.png" Description="Sketchbook application for Processing" ForegroundText="light" BackgroundColor="#464646">
+        <DefaultTile ShowName="allLogos" />
+        <SplashScreen Image="images\splash.png" BackgroundColor="#271e28" />
+      </VisualElements>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+  </Capabilities>
+</Package>
